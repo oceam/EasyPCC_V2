@@ -1,6 +1,6 @@
 # EasyPCC_V2
 Easy Plant Phenotyping Tool for both indoor and outdoor use.
-more details on how to install and run EasyPCC_v2, check [howToInstall]() and [howToUse]() 
+more details on how to install and run EasyPCC_v2, check [howToInstall and howToUse](https://github.com/oceam/EasyPCC_V2/blob/master/How_to_en.pdf) 
 You can download the source code and run by yourself or easyliy download executable program for windows:
 [EasyPCC_V2.exe]()
 This is the second version of [EasyPCC](http://www.mdpi.com/1424-8220/17/4/798)
