@@ -12,7 +12,7 @@ Note that run EasyPCC_V2.exe do not require you install any python packages.
 ## Contributor
 Wei GUO (Software design and core algorithm)  
 Laure FOURQUET (Python code and GUI interface )  
-Atsushi ITO (transfered to exe)
+Atsushi ITO (Transfered to exe)
 ## Maintainers
 Wei GUO (Oceam), 東京大学国際フィールドフェノミクス研究拠点  
 International Field Phenomics Research Laboratory, The University of Tokyo, Tokyo, Japan
