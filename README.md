@@ -2,8 +2,8 @@
 Easy Plant Phenotyping Tool for both indoor and outdoor use.
 more details on how to install and run EasyPCC_v2, check [howToInstall]() and [howToUse]()
 ## Contributor
-Wei GUO (designed the software and core algorithm)
-Luare (Python code and GUI interface )
+Wei GUO (designed the software and core algorithm)  
+Luare (Python code and GUI interface )  
 Atsushi Ito (transfered to exe)
 ## Maintainers
 Wei GUO (Oceam), 東京大学国際フィールドフェノミクス研究拠点  
