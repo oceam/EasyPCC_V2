@@ -9,10 +9,14 @@ This is the second version of [EasyPCC](http://www.mdpi.com/1424-8220/17/4/798).
 ```
 Note that run EasyPCC_V2.exe do not require you install any python packages.
 ```
+## collecting Training data  
+there are different options to collect training data:
+1. Ways introduced at this paper [EasyPCC](http://www.mdpi.com/1424-8220/17/4/798).
+2. A way more fast new tool[ here](https://github.com/oceam/EasyPCC_V2/tree/master/collectTrainJS).
 ## Contributor
 Wei GUO (Software design and core algorithm)  
 Laure FOURQUET (Python code and GUI interface )  
-Atsushi ITO (Transfered to exe)
+Atsushi ITO (Transfered to exe, JS software)
 ## Maintainers
 Wei GUO (Oceam), 東京大学国際フィールドフェノミクス研究拠点  
 International Field Phenomics Research Laboratory, The University of Tokyo, Tokyo, Japan
