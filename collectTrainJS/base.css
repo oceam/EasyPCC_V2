@@ -1,0 +1,23 @@
+#dropArea {
+  overflow: hidden;
+  padding: 40px 10px;
+  background: #ddd;
+  border: 3px #666 dashed;
+  color: #999;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#dropArea.dragover,
+#dropArea:active {
+  background: #cfc;
+  border-color: #9c9;
+  color: #9c9;
+}
+
+
+#output img {
+  display: block;
+  margin: 15px auto;
+}
