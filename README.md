@@ -1,7 +1,7 @@
 # EasyPCC_V2
 Easy Plant Phenotyping Tool for both indoor and outdoor use.
 
-if you feel useful, please cite the paper below:  
+if　useful, please cite the paper below:  
 Guo, W., et al. (2013).Illumination invariant segmentation of vegetation for time series wheat images based on decision tree model. Computers and Electronics in Agriculture, 96, 58-66.[link](https://doi.org/10.1016/j.compag.2013.04.010).  
 Guo, W., et al. (2017).EasyPCC: Benchmark datasets and tools for high-throughput measurement of plant canopy coverage ratio under field conditions. Sensors (Basel), 17(4), 798. [link](https://doi.org/10.3390/s17040798).
 
